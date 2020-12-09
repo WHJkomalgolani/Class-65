@@ -1,0 +1,8 @@
+Alert.alert("The word does not exist in our database");
+
+Alert.alert will work on mobile
+
+
+
+alert("The word does not exist in our database");
+Above is written when output should come on web alert 
